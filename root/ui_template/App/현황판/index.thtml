@@ -86,7 +86,7 @@
 	</div>
 
 	<!-- 1 -->
-	<div class="ui vertical segments" style="margin-top: 0px; height: 960px; overflow-y: auto;">
+	<div class="ui vertical segments" style="margin-top: 0px; height: 960px; overflow-y: auto; overflow-x: hidden;">
 
 		<!-- 2 -->
 		<div class="ui segment" style="font-size: 11px;">
